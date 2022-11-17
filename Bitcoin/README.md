@@ -1,9 +1,3 @@
-# Bootcamp
+# Bitcoin
 
-Blockchain Explorer / Scan
-
-https://www.blockchain.com/explorer
-https://coinmarketcap.com/
-
-https://etherscan.io/
-https://btcscan.org/
+Documentación del funcionamiento de bitcoin descrito por Satoshi Nakamoto
