@@ -1,3 +1,3 @@
 # Bitcoin
 
-Documentación del funcionamiento de bitcoin descrito por Satoshi Nakamoto
+_Article created by Satoshi Nakamoto describing the birth of blockchain and Bitcoin_
